@@ -28,7 +28,7 @@ def main():
     # 1.creating window, 
     # 2.define clock, 
     # 3.define fps value, 
-    # 4.define ticker(for printing text once per x frames (line 87))
+    # 4.define ticker(for printing text once per x frames (line 93))
     screen = pygame.display.set_mode(size)
     clock = pygame.time.Clock()
     fps = 30
